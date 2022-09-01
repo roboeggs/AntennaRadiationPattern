@@ -8,6 +8,6 @@ ESP №1 устанавливается на установку и имеет п
 
 ![alt text](https://github.com/roboeggs/AntennaRadiationPattern/blob/main/images/chart.jpg)
 
-Модель устаноки
+Модель установки
 
 ![Image text](https://github.com/roboeggs/AntennaRadiationPattern/blob/main/images/installation.jpg)

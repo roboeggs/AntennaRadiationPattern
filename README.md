@@ -5,6 +5,6 @@ ESP №1 устанавливается на установку и имеет п
 Геркон служит для измерения время прохождения каждого шага.
 После измерения данных, данные отправляются по TCP соединению на ESP №2.
 Полученные данные принимает программа разрабоная на Python и показывавет диаграмму направленности.
-![alt text](https://github.com/roboeggs/ScriptBarcodeScanner/blob/main/images/qr-code.gif)
+![alt text](https://github.com/roboeggs/AntennaRadiationPattern/tree/main/images/chart.jpg)
 Модель устаноки.
 ![Image text](https://github.com/roboeggs/AntennaRadiationPattern/tree/main/images/installation.jpg)

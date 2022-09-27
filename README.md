@@ -1,13 +1,13 @@
-# Диаграмма направленности антенны на ESP8266.
-Данная установка была разработана в экспериментальных целях.
-ESP №1 выступает в виде клиента, который подключен к ESP №2.
-ESP №1 устанавливается на установку и имеет подключенный к его пину геркон.
-Геркон служит для измерения время прохождения каждого шага.
-После измерения данных, данные отправляются по TCP соединению на ESP №2.
-Полученные данные принимает программа разрабоная на Python и показывает диаграмму направленности.
+# Antenna radiation pattern on ESP8266.
+This installation was developed for experimental purposes.
+ESP №1 acts as a client that is connected to ESP №2.
+ESP №1 is installed on the installation and has a reed switch connected to its pin.
+The reed switch is used to measure the passage time of each step.
+After measuring the data, the data is sent over a TCP connection to ESP №2.
+The received data is received by a program developed in Python and shows a directional diagram.
 
 ![alt text](https://github.com/roboeggs/AntennaRadiationPattern/blob/main/images/chart.jpg)
 
-Модель установки
+Installation model
 
 ![Image text](https://github.com/roboeggs/AntennaRadiationPattern/blob/main/images/installation.jpg)
